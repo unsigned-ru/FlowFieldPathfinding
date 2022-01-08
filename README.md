@@ -25,10 +25,10 @@ Both techniques can be combined to achieve efficient overall pathfinding.
 ### Pros:
   - Very efficient if you have many agents, seeking one goal.
   - Can be combined with other pathfinding techniques to suit certain areas.
-  - Can be combined with interesting steering behaviors
+  - Can be combined with interesting steering behaviors.
   
 ### Cons:
-  - Inneficient for big maps
+  - Inneficient for big maps.
   - Having many goals causes CPU strain.
 
 ## Sources:
